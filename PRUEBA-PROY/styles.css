@@ -1,0 +1,10 @@
+#organos {
+    width: 100%;
+    max-width: 600px; /* Ajusta el tamaño según sea necesario */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+}
+
+#silueta{
+    width: 400px;
+    height: 600px;
+}
